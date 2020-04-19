@@ -1,0 +1,62 @@
+{
+	"name": "Dmytro Selin",
+	"title": "Fullstack developer",
+	"description": "I'm tech-savvy guy fond of experimenting and learning and sharing results of my learning with others",
+	"level": "Senior",
+	"technologies": [
+		{"name": "c++"},
+		{"name": "php"},
+		{"name": "javascript"},
+		{"name": "C#"}
+	],
+	"education": [ {
+		"start_date": "1998",
+		"end_date": "2000",
+		"name": "Dnipropetrovsk Lyceum of informational technologies"
+	},
+	{
+		"start_date": "September 2000",
+		"end_date": "June 2005",
+		"name": "Dnipropetrovsk State University",
+		"graduation": "Master"
+	}
+	],
+	"job_history": [
+		{
+			"company": "Facebook",
+			"position": "Software Engineer",
+			"start_date": "December 2019",
+			"end_date": "",
+			"technologies": [
+				{"name": "c++"},
+				{"name": "php"},
+				{"name": "javascript"}
+			],
+		},
+		{
+			"company": "Softserve",
+			"position": "Software Architect",
+			"start_date": "May 2019",
+			"end_date": "December 2019"
+			"technologies": [
+				{"name": "javascript"}
+			],
+		}
+		{
+			"company": "Anadea",
+			"position": "Software Architect",
+			"start_date": "May 2019",
+			"end_date": "December 2019",
+			"technologies": [
+				{"name": "javascript"},
+				{"name": "React"},
+				{"name": "NodeJS"}
+			],
+		}
+	],
+	"awards": [
+	{ 
+		"description": "many awards for students informatics olympiads"
+	}
+	]
+}
