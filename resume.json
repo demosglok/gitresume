@@ -31,7 +31,7 @@
 				{"name": "c++"},
 				{"name": "php"},
 				{"name": "javascript"}
-			],
+			]
 		},
 		{
 			"company": "Softserve",
@@ -40,7 +40,7 @@
 			"end_date": "December 2019",
 			"technologies": [
 				{"name": "javascript"}
-			],
+			]
 		},
 		{
 			"company": "Anadea",
@@ -51,7 +51,7 @@
 				{"name": "javascript"},
 				{"name": "React"},
 				{"name": "NodeJS"}
-			],
+			]
 		}
 	],
 	"awards": [
