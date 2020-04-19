@@ -37,11 +37,11 @@
 			"company": "Softserve",
 			"position": "Software Architect",
 			"start_date": "May 2019",
-			"end_date": "December 2019"
+			"end_date": "December 2019",
 			"technologies": [
 				{"name": "javascript"}
 			],
-		}
+		},
 		{
 			"company": "Anadea",
 			"position": "Software Architect",
